@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IA4CChpsYEfx5dhELTCqd3r4l/7yBE4ITaFmQFUbACnPpsRwsXqwN/MY9n6Od47rFWg4gfVer1tRL9dyMX/8nA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Prajith Shetty\\source\\repos\\FoodToOrder\\FoodToOrder\\FoodToOrder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Prajith Shetty\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

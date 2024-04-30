@@ -1,0 +1,217 @@
+﻿[
+  {
+    "Id": 201,
+    "RestaurantName": "Samruddhi",
+    "Open": true,
+    "UserId": 101,
+    "Dishes": [
+      {
+        "Id": 501,
+        "DishName": "Dosa",
+        "Available": true,
+        "Price": 50,
+        "RestaurantId": 201
+      },
+      {
+        "Id": 502,
+        "DishName": "Plain Rice",
+        "Available": true,
+        "Price": 70,
+        "RestaurantId": 201
+      },
+      {
+        "Id": 503,
+        "DishName": "Mutton Rice Combo",
+        "Available": true,
+        "Price": 270,
+        "RestaurantId": 201
+      },
+      {
+        "Id": 504,
+        "DishName": "Chicken Roast",
+        "Available": true,
+        "Price": 350,
+        "RestaurantId": 201
+      },
+      {
+        "Id": 505,
+        "DishName": "Prawns Curry",
+        "Available": true,
+        "Price": 150,
+        "RestaurantId": 201
+      }
+    ]
+  },
+  {
+    "Id": 202,
+    "RestaurantName": "KFC",
+    "Open": true,
+    "UserId": 101,
+    "Dishes": [
+      {
+        "Id": 601,
+        "DishName": "Burger",
+        "Available": true,
+        "Price": 70,
+        "RestaurantId": 202
+      },
+      {
+        "Id": 602,
+        "DishName": "Pizza",
+        "Available": true,
+        "Price": 200,
+        "RestaurantId": 202
+      },
+      {
+        "Id": 603,
+        "DishName": "Crispy Chicken",
+        "Available": true,
+        "Price": 250,
+        "RestaurantId": 202
+      },
+      {
+        "Id": 604,
+        "DishName": "Chicken Wings",
+        "Available": true,
+        "Price": 179,
+        "RestaurantId": 202
+      },
+      {
+        "Id": 605,
+        "DishName": "Special Combo",
+        "Available": true,
+        "Price": 350,
+        "RestaurantId": 202
+      }
+    ]
+  },
+  {
+    "Id": 203,
+    "RestaurantName": "McDonalds",
+    "Open": true,
+    "UserId": 101,
+    "Dishes": [
+      {
+        "Id": 701,
+        "DishName": "McAloo Tikki Burger",
+        "Available": true,
+        "Price": 118,
+        "RestaurantId": 203
+      },
+      {
+        "Id": 702,
+        "DishName": "Masala McEgg Burger",
+        "Available": true,
+        "Price": 121,
+        "RestaurantId": 203
+      },
+      {
+        "Id": 703,
+        "DishName": "Chicken Kebab Burger",
+        "Available": true,
+        "Price": 179,
+        "RestaurantId": 203
+      },
+      {
+        "Id": 704,
+        "DishName": "McFlurry Oreo",
+        "Available": true,
+        "Price": 200,
+        "RestaurantId": 203
+      },
+      {
+        "Id": 705,
+        "DishName": "Fries",
+        "Available": true,
+        "Price": 120,
+        "RestaurantId": 203
+      }
+    ]
+  },
+  {
+    "Id": 204,
+    "RestaurantName": "Chaithanya",
+    "Open": true,
+    "UserId": 101,
+    "Dishes": [
+      {
+        "Id": 801,
+        "DishName": "Chicken Roast",
+        "Available": true,
+        "Price": 230,
+        "RestaurantId": 204
+      },
+      {
+        "Id": 802,
+        "DishName": "Mutton Pepper Fry",
+        "Available": true,
+        "Price": 250,
+        "RestaurantId": 204
+      },
+      {
+        "Id": 803,
+        "DishName": "Prawn Fry",
+        "Available": true,
+        "Price": 150,
+        "RestaurantId": 204
+      },
+      {
+        "Id": 804,
+        "DishName": "Crab Curry",
+        "Available": true,
+        "Price": 170,
+        "RestaurantId": 204
+      },
+      {
+        "Id": 805,
+        "DishName": "Chicken Biriyani",
+        "Available": true,
+        "Price": 240,
+        "RestaurantId": 204
+      }
+    ]
+  },
+  {
+    "Id": 205,
+    "RestaurantName": "Tulip",
+    "Open": true,
+    "UserId": 101,
+    "Dishes": [
+      {
+        "Id": 901,
+        "DishName": "Chicken Biriyani",
+        "Available": true,
+        "Price": 180,
+        "RestaurantId": 205
+      },
+      {
+        "Id": 902,
+        "DishName": "Chicken Tandoori",
+        "Available": true,
+        "Price": 118,
+        "RestaurantId": 205
+      },
+      {
+        "Id": 903,
+        "DishName": "Prawn Curry",
+        "Available": true,
+        "Price": 150,
+        "RestaurantId": 205
+      },
+      {
+        "Id": 904,
+        "DishName": "Kadai Chicken",
+        "Available": true,
+        "Price": 170,
+        "RestaurantId": 205
+      },
+      {
+        "Id": 905,
+        "DishName": "Kadai Paneer",
+        "Available": true,
+        "Price": 150,
+        "RestaurantId": 205
+      }
+    ]
+  }
+]

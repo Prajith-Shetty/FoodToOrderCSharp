@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoodToOrder", "FoodToOrder\FoodToOrder.csproj", "{EBAB5EC1-562F-41F1-A302-6927A224F9E3}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4846F9B5-F9F3-4D6D-9917-9E6D7384A24B} = {4846F9B5-F9F3-4D6D-9917-9E6D7384A24B}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodToOrderLibrary", "FoodToOrderLibrary\FoodToOrderLibrary.csproj", "{4846F9B5-F9F3-4D6D-9917-9E6D7384A24B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBAB5EC1-562F-41F1-A302-6927A224F9E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBAB5EC1-562F-41F1-A302-6927A224F9E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBAB5EC1-562F-41F1-A302-6927A224F9E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBAB5EC1-562F-41F1-A302-6927A224F9E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4846F9B5-F9F3-4D6D-9917-9E6D7384A24B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4846F9B5-F9F3-4D6D-9917-9E6D7384A24B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4846F9B5-F9F3-4D6D-9917-9E6D7384A24B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4846F9B5-F9F3-4D6D-9917-9E6D7384A24B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9F9A1FD-DFA2-4BCB-ACD7-09A2350CA836}
+	EndGlobalSection
+EndGlobal
